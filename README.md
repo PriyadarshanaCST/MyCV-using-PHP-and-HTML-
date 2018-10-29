@@ -1,2 +1,2 @@
-# MyCV-using-PHP-and-HTML-
-I have created  MyCV using PHP and HTML. 
+# MyCV-using-PHP,HTML&CSS-
+I have created  MyCV using PHP,HTML & CSS. 
